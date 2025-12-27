@@ -1,0 +1,7 @@
+{
+  "name": "Somnia: AI Dream Architect",
+  "description": "A sophisticated dream journaling and analysis platform that uses Gemini AI to interpret subconscious themes, generate ethereal dream visuals, and provide personalized insights into your sleep cycle.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
